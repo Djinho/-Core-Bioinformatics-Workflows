@@ -14,6 +14,7 @@
 mkdir -p read_cleaning/input
 mkdir -p read_cleaning/tmp
 mkdir -p read_cleaning/results
+cd read_cleaning
 
 # Step 2: Install Required Software
 sudo apt-get install sra-toolkit -y
