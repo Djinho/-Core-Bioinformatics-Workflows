@@ -5,4 +5,4 @@ Core Bioinformatics Workflows is a collection of essential pipelines for tasks l
 ## Workflows
 
 1. [Read Cleaning](https://github.com/Djinho/-Core-Bioinformatics-Workflows/tree/main/read_cleaning) - Instructions on how to clean raw sequencing reads, including tools and steps involved in removing low-quality sequences and contaminants.
-
+2. [Genome Assembly](https://github.com/Djinho/-Core-Bioinformatics-Workflows/tree/main/Genome_Assembly) - A guide on genome assembly, including methods and tools for assembling raw sequencing data into contigs and scaffolds.
